@@ -1,1 +1,1 @@
-# OOP-project
+# Trading Bot
